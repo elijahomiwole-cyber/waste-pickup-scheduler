@@ -28,13 +28,14 @@ Waste collection pickups are often unreliable in many Nigerian communities, resu
 
 ## Features
 
-* 📅 Schedule waste pickups
-* 📋 View scheduled pickups
-* 📊 Dashboard with pickup statistics
-* 🔍 Search scheduled pickups
-* ⭐ Customer feedback and ratings
-* 💾 Local Storage support
-* 📱 Responsive design
+- 📅 Schedule waste pickups
+- 📋 View scheduled pickups
+- 📊 Dashboard with pickup statistics
+- 🔍 Search scheduled pickups
+- 🔔 Pickup reminders
+- ⭐ Submit customer feedback and ratings
+- 💾 Local Storage support
+- 📱 Responsive design for desktop and mobile devices
 
 ---
 
